@@ -1,0 +1,1 @@
+There are multiple, duplicate files here, but that's so that you can keep them sorted in your head as you print them out.  I have found that using 3 outer layers with no infill works best for me.  Orient them so that they look like triangles - just like in the original post from zruncho.  Use a brim if necessary. 
